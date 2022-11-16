@@ -1,5 +1,5 @@
 {
-  "name": "weather-cli",
+  "name": "weather-cli-yd",
   "version": "1.0.0",
   "description": "CLI for getting weather",
   "main": "weather.js",
@@ -15,16 +15,16 @@
     "cli",
     "weather"
   ],
-  "author": "Anton Larichev",
+  "author": "Yahor Dunayeu",
   "license": "ISC",
-  "homepage": "https://purpleschool.ru",
+  "homepage": "https://dunayeu.me",
   "repository": {
     "type": "git",
-    "url": "https://purpleschool.ru"
+    "url": "https://github.com/stupendusmagneficus/weather-cli"
   },
   "bugs": {
-    "url": "https://purpleschool.ru",
-    "email": "antonlarichev@gmail.com"
+    "url": "https://dunayeu.me",
+    "email": "yahordunayeu@gmail.com"
   },
   "dependencies": {
     "axios": "^0.21.4",
